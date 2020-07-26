@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{20AF00E7-0B0D-497F-8DA5-D67D604EABA8}|Default">
+  <MonoDevelop.Ide.ItemProperties.FinalProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interface/Segitiga.cs">
+    <Files>
+      <File FileName="Program.cs" Line="20" Column="25" />
+      <File FileName="AbstractClass/BangunDatar.cs" Line="1" Column="14" />
+      <File FileName="AbstractClass/Persegi.cs" Line="17" Column="73" />
+      <File FileName="AbstractClass/PersegiPanjang.cs" Line="23" Column="1" />
+      <File FileName="AbstractClass/Segitiga.cs" Line="22" Column="77" />
+      <File FileName="Interface/IBangunDatar.cs" Line="6" Column="24" />
+      <File FileName="Interface/Persegi.cs" Line="4" Column="40" />
+      <File FileName="Interface/PersegiPanjang.cs" Line="4" Column="47" />
+      <File FileName="Interface/Segitiga.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalProject" expanded="True">
+            <Node name="FinalProject" expanded="True">
+              <Node name="AbstractClass" expanded="True" />
+              <Node name="Interface" expanded="True">
+                <Node name="Segitiga.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
